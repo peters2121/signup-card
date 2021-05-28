@@ -1,0 +1,141 @@
+.whole-body{
+    max-width: 1050px;
+}
+.background{
+    background-color: #e8f9f1;
+    display: flex;
+    padding: 70px;
+}
+.front{
+    flex: 1;
+    background-color: #00D35B;
+    border-radius: 9px;
+    padding: 30px;
+}
+.back{
+    flex: 1;
+    background-color: #fcfcfc;
+    margin-left:35px ;
+    border-radius: 9px;
+    padding: 30px;
+}
+.pic{
+    margin: auto;
+    border-radius: 10px;
+    width: 140px;
+    overflow: hidden;
+}
+.flakes{
+    text-align: center;
+    color: white;
+    margin-bottom: 150px;
+}
+.noh{
+    font-size: 40px;
+}
+.moh{
+    font-size: 20px;
+}
+.signup{
+    display: flex;
+    margin-top: 350px;
+}
+.bro{
+    color: white;
+    border: 1px dotted white;
+    padding: 17px 4px;
+    border-radius: 9px;
+    flex: 1;
+    text-align: center;
+     box-shadow: green;
+}
+.sis{
+    background-color: white;
+    color: green;
+    padding: 17px 4px;
+    border-radius: 9px;
+    margin-left: 5px;
+    flex: 1;
+    text-align: center;
+    box-shadow: wheat;
+}
+.welcome{
+    background-color: #00D35B;
+    display: flex;
+    padding: 20px;
+    border-radius: 9px;
+    margin-bottom: 15px;
+}
+.welcome img{
+    border-radius: 9px;
+}
+.pap{
+    margin-left: 60px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 3px;
+}
+.create{
+    display: flex;
+}
+.create h1{
+    color: orangered;
+    font-size: 40px;
+}
+.play h2{
+    margin-bottom: -10px;
+}
+.plus h2{
+    margin-bottom: -10px;
+}
+.stop h2{
+    margin-bottom: -10px;
+}
+.user h2{
+    margin-bottom: -10px;
+}
+.study{
+    display: flex;
+}
+.study h1{
+    color: green;
+    font-size: 40px;
+}
+.cards{
+    display: flex;
+}
+.cards h1{
+    color:red;
+    font-size: 40px;
+}
+.account{
+    display: flex;
+}
+.account h1{
+    color: blue;
+    font-size: 40px;
+}
+.plus ,.play, .stop, .user{
+    margin-left: 30px;
+    line-height: 18px;
+}
+.foot{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.foot h1{
+    color: white;
+    padding: 15px;
+    background-color:green;
+    border-radius: 30px;
+}
+.foot .ib{
+    color: red;
+    font-size: 30px;
+}
+.foot .ch{
+    color: blue;
+    font-size: 30px;
+}
